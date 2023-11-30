@@ -1,5 +1,9 @@
 ## About
 
+> **Note**: [kubernetes/git-sync](https://github.com/kubernetes/git-sync)
+> works in a largely similar manner but is more robust, you probably should
+> use that.
+
 I contribute to various different open source projects and have multiple
 different forks of these projects, so I needed a simple tool for keeping my
 forks up-to-date. Hence I made this simple tool called `gitsyncr` (mandatory
